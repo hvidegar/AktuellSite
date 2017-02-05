@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Requesting </span>funds</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Up to 80 % of a grant can be paid out at the start of a project. A first payment of funds can only be made after we have received the popular scientific 
+	summary of the project. The remaining funds can be requested after the final report has been submitted and approved by the foundation. If a report is not submitted, 
+	the foundation can ask for the repayment the awarded funds.</p>
+    <br/> 
+	<p>For grants spanning over more than one year funds can be requested one year at a time. A yearly report has to be submitted, and further payments depend on 
+	the quality of the yearly report.</p>
+    <br/>	
+    <p>There is no form for requesting payment of funds. Funds are requested by sending a letter to the foundation containing the following: </p>
+	<p>&raquo; Application number,  </p>
+    <p>&raquo; Project title, </p> 
+	<p>&raquo; Contact person and address,</p>
+    <p>&raquo; Totalt amount of grant, </p>
+    <p>&raquo; Earlier requested amount,</p>
+    <p>&raquo; Amount now requested,</p>
+	<p>&raquo; Payment instructions.</p>
+	<br/>
+    <p>Funds not requested within 2 years of project end are revoked and used for other projects.</p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

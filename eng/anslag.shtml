@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Grants </span>&nbsp;</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Ekhagastiftelsen (Ekhaga foundation) was founded by Gösta Videgård as early as 1944 and since then we have supported 
+	research in ecological agriculture and biological medicine.</p>
+    <br/>
+    <p>Since 1999 we have awarded more than 113 million Swedish kronor to different research projects in agriculture and medicine.</p>
+    <br/>
+    <p>On these pages we want to spread information about all the projects that we have founded. Today information is available
+	for all projects since 2001. For project from 2004 and later there is even detailed information and such as a popular scientific
+	project summary for all applications. </p>
+	<br/>
+    <p>This information is presently only available in swedish - see link on the right of this page  </p>
+	<!-- <br/>
+    <p>Välj i menyn ovan att antingen visa en lista på alla anslag sedan 1999 eller att göra en sökning. </p> -->
+  </div>
+  <!--left end -->
+  <!--right start-->
+  <div id="right">
+    <ul class="sub">
+       
+      <li>
+        <div class="box-head">
+          <h5><a href="../allaanslag.shtml"><span>List of projects</span></a></h5>
+          <p class="head-desc">in swedish</p>
+        </div>
+      </li>
+    </ul>
+  </div> 
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

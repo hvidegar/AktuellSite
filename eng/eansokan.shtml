@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Electronic </span>application</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>We are in the process of creating a system för handling applications electronically. </p>
+    <br/>
+	<p><span>This system will not be available 2014.</span></p>
+	<br/>
+    <!-- <p>For the applicant there will be no change in how the applications looks and which information must be entered. 
+	The applicant will enter all information found on todays application form and generate an application form on the website. 
+	This form has to be printed and submitted with the complete application.  </p>
+	<br/>
+    <p>Our goal has been to have this system operational for the application round 2010, but as of today we have not come that far. </p>
+    <br/>
+    <p>If we can launch our electronic application system by may 10 we would ask all applicants to use the system.   </p>
+	<br/>
+    <p>Login to the application system will be through this webpage. </span></p>
+	<br/> -->
+    <p>Unfortunately we have not managed to get the system up and running yet. </p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

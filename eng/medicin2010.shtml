@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Ekhaga Foundation </span>Conference Series:</h3>
+    <p class="head-desc">&nbsp;</p>
+	
+	   <P>
+	The foundation aims at regularly arranging scientific conferences. The focus of these conferences will be the main objectives of the foundation - 
+	complementary and alternative medicine as well as ecological agriculture. <br/>
+	The aim with the conferences is to offer a place for national and international researchers to meet for discussions regarding research relevant for 
+	the Ekhaga foundation. Where this research stands today and what research should be about in the future. 
+	</p><br />
+	<P>
+	In april 2010 the foundation arranged a 2-day scientific conference on the subject of Integrative Care and Gut Ecology and Allergy. 
+	During the conference, internationally acknowledged experts presented state of the art research and perspectives for the future. 
+	In addition, some of the research projects which have received major funding from the Foundation during the last decade were presented. <br />
+	
+	Around 60 speakers and participants were invited to participate in the conference at the Villa Källhagen 
+	in Stockholm, known for its beautiful surroundings and excellent cuisine. The high standard scientific core of the conference was accompanied 
+	by cultural events, specifically developed for the occasion in the spirit of the initiator of the Ekhaga Foundation, Gösta Videgård. 
+	</p><br />
+	<P>
+	The Conference Proceedings include a short introduction to the Ekhaga Foundation, followed by an introduction to some of the research 
+	areas which have received funding. The spirit of the presentations is indicated by excerpts from the keynote presentations. 
+	The scientific programme and the invited session abstracts are all included in the proceedings. A lay scientific summary in Swedish of the 
+	Ekhaga Foundation research projects is also attached.  
+	</p><br />
+	<P>
+	The proceedings can be downloaded by clicking the link to the right in this page. 
+	</p>
+	
+    
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="bilagor/EkhagastiftelsenProceedings2010.pdf"><span>Proceedings</span></a></h5>
+          <p class="head-desc">from conference on medicine 2010</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

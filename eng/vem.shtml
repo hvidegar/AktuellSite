@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Who can </span>apply</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Ekhagastiftelsen does not have any restrictions regarding from which country an application can come. </p>
+    <br/>
+    <p>For applications that do not come from Europe or North America we require that you have a cooperation with a swedish institution. The partner must be involved in the research project. Please be sure to describe the details of the cooperation. </p>
+	<br/>
+    <p>We do not have any formal requirements that applications can only come from institutions (universities, colleges, research institutions, etc.).</p>
+	<br/>
+    <p>It is possible to apply for scholarships, but these are normally only granted for research related projects. We do not sponsor basic education at university level. </p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

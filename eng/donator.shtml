@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+<link href="pagestyle.css" rel="stylesheet" type="text/css" />
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Gösta </span>Videgård</h3><br />
+	
+    <p class="head-desc">Founder of Ekhagastiftelsen</p>
+    <p><img src="images/gv2.png" border="0" padding="10px" alt="" align="left" class="office_pic"/>
+Gösta Videgård was born in 1893. He was an construction engineer and during the 1930s and 1940s he ran 
+a very successful construction business. After 1948 his aim was more general business. Gösta was one of 
+the first persons in Sweden to realize the possibilities of freezing technology. Among other things he 
+operated a shipping business with refrigeration ships. 1952 Gösta Videgård passed away on a business trip abroad. </p><br />
+
+<p>In his personal life Gösta Videgård devoted much interest to "the natural way of looking after oneself and his food". 
+His way of life was characterized by a love for nature and to the things that, according to his opinion were natural and 
+consistent with nature. Personally he had simple habits, used to some extent vegetarian food and enjoyed sailing, skating 
+and other open-air activities. His ambition to live healthy way of life may have come from the fact that he had since his 
+youth had weak health and had suffered many illnesses. When it came to the treatment of these illnesses he showed a strong 
+belief in natural medicines. His strong belief in nature and its ability to cure and produce healthy products came to mean 
+that in agriculture he became interested in natural methods, primarily biodynamic. In the area of medicine he became especially 
+attached to the methods of treatment - based on food that promoted natural healing - that were used for example at Cademario in Switzerland. </p><br />
+
+<p>Through a founding document dated December 1st 1944 Gösta Videgård created a foundation called Ekhagastiftelsen, 
+to which he donated the larger part of his wealth.</p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

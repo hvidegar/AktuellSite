@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Timetable for </span>applications</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Fund are normally awarded once per year (september) and for 2017 the timetable is as follows:</p>
+    <br/>
+    <p>&raquo; Last day for applications: May 20th 2017, which is the day we must have received the application. </p>
+    <p>&raquo; Applications must be sent by mail to our Post Office Box.</p> 
+	<p>&raquo; NOTE! Messenger or courier services can not deliver to Post Office Boxes.</p>
+    <p>&raquo; If you want to deliver the application personally or by courier, please contact us by e-mail or by phone 
+	(+46 70 240 81 81) at least one week before the deadline. </p>
+    <p>&raquo; The scientific advisory council evaluates the applications.</p>
+    <p>&raquo; The scientific advisory council meets during august and compiles its recommendations.</p>
+    <p>&raquo; The board decides on awards of funds at its september meeting.</p>
+    <p>&raquo; Letters are sent out to all applicants within one week after the meeting.</p>
+
+
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

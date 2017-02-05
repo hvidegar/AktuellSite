@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+<link href="pagestyle.css" rel="stylesheet" type="text/css" />
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Ekhagastiftelsens </span>allmänna ändamål</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Ekhagastiftelsen grundades redan 1944 och stödjer sedan dess forskning inom ekologiskt lantbruk och biologisk medicin.</p>
+    <br/>
+    <p>I enlighet med Gösta Videgårds önskan och mot bakgrund av hans intresseinriktning 
+       stöder stiftelsen företrädesvis vissa speciella forskningsområden.</p>
+	<br />
+	<p>Fyra år efter Gösta Videgårds bortgång tillsatte Ekhagastiftelsen 1956 en utredning under ledning av f.d. 
+       justitierådet Gunnar Dahlman för att få ett mera fullständigt utlåtande angående Ekhagastiftelsens 
+       allmänna ändamål än det som tidigare förelåg. För mer information om denna utredning se länk till höger på denna sida.</p>
+	<br />
+	<p>På LANTBRUKSOMRÅDET stöder stiftelsen forskning angående förbättring och 
+	vidareutveckling av ekologiskt lantbruk, dvs ekologiskt väl anpassade 
+	lantbrukssystem, där man ersätter de kemiska medlen för gödsling, 
+	växtskydd och tillväxtreglering med produktionsbefrämjande åtgärder 
+	av ekologisk och biologisk art. Härvid bör målet vara inriktat på produktion 
+	av kvalitativt högvärdiga baslivsmedel, som är väl ägnade att befordra 
+	människans hälsa och sunda utveckling. Även forskning beträffande beredning 
+	och förvaring av livsmedel medelst naturlig teknik kan stödjas. </p>
+	<br />
+	<p>På det MEDICINSKA OMRÅDET stöder stiftelsen forskning avseende förbättring och 
+	vidareutveckling av sådana läkemetoder, som i sig är naturliga och ägnade att på 
+	ett naturligt sätt befrämja människans inneboende förmåga till självläkning. 
+	Helhetssynen på den mänskliga hälsan, där inte enbart läkemedlens utan även födans 
+	och miljöns inverkan på allmäntillståndet beaktas, är härvid av stor betydelse. 
+	Forskning rörande livsföringen och miljöns betydelse för hälsotillståndet är också 
+	föremål för stiftelsens stöd. Vidare är stiftelsen öppen för att främja stiftarens 
+	planer på att medverka för att i Sverige skapa ett forskningscentrum för biologisk medicin. </p>
+	<br />
+	<p>Även ansökningar om stipendier och strategiska insatser för att få igång en utveckling i 
+	enlighet med ändamålet kan sökas. Stiftelsen välkomnar också ansökningar om 
+	planeringsanslag för att t ex anordna seminarier/workshops inom den frågeställning som sökande 
+	vill bearbeta för att få ett bättre underlag för en definitiv ansökan (som även kan 
+	riktas till andra anslagsgivare) och som ett led i en dialog mellan forskare och 
+	stiftelsens vetenskapliga råd. </p>
+	<br />
+	<p>Stiftelsen önskar i första hand stödja strategiska och innovativa projekt av pilotkaraktär. </p>
+	<br />
+	<p>Stiftelsen har ingen begränsning att sökande måste vara från Sverige eller att projektet måste vara lokaliserat till Sverige. </p>
+
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="bilagor/ekhagastiftelsen.pdf"><span>Presentation</span></a></h5>
+          <p class="head-desc">av Ekhagastiftelsen</p>
+        </div>
+      </li>
+	  <li>
+        <div class="box-head">
+          <h5><a href="dahlmanska.shtml"><span>Dahlmanska utredningen</span></a></h5>
+          <p class="head-desc">Ekhagastiftelsens allmänna ändamål</p>
+        </div>
+      </li>
+	  
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

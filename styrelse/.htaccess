@@ -1,0 +1,6 @@
+# BEGIN - Levonline data - DO NOT CHANGE
+AuthName "ekhagastiftelsen.se"
+AuthType Basic
+AuthUserFile /home/userC/c1321200/public_html/.levonline_htpasswd
+Require user stmedlem
+# END - Levonline data - DO NOT CHANGE

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Ekhagastiftelsens </span>konferensserie: </h3>
+    <p class="head-desc">&nbsp;</p>
+    <P>
+	Stiftelsen har för avsikt att framöver regelbundet arrangera vetenskapliga konferenser inom stiftelsens kärnområden - ekologiskt lantbruk 
+	och alternativ/komplementär medicin.<br/>
+	Syftet med konferenserna är att erbjuda en mötesplats där nationella och internationella forskare kan mötas för en diskussion kring forskning 
+	relevant för Ekhagstiftelsens ändamålsparagraf; vad den står idag och vad som krävs för en god forskning i framtiden. 
+	</p><br />
+	<P>
+	I april 2010 arrangerade Ekhagastiftelsen en 2-dagars vetenskaplig konferens på temat Integrativ Medicin samt Tarmekologi och Allergi. 
+	Under konferensen presenterade internatinellt erkända experter aktuell forskning och utblick för framtiden. Ett antal projekt som 
+	erhållit betydande finansiering från Ekhagastiftelsen presenterade också sin forskning. 
+	
+	Runt 60 föreläsare och deltagare hade bjudits in att medverka vid konferensen som hölls på Villa Källhagen i Stockholm. 
+	</p><br />
+	<P>
+	En dokumentation om konferensen (Conference Proceedings) har tagits fram och består av en kort presentation av stiftelsen, 
+	följt av ett antal forskningsområden som erhållit stöd. Proceedings innehåller även sammanfattningar av presentationer, vetenskapligt program samt 
+	populärvetenskaplig sammanfattning av Ekhagastiftelsens forskningsprojekt. </p>
+	<P><br />
+	För att läsa mer om konferensen klicka på Proceedings till höger i denna bild. 
+	</p>
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="bilagor/EkhagastiftelsenProceedings2010.pdf"><span>Proceedings</span></a></h5>
+          <p class="head-desc">från konferensen Medicin 2010</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

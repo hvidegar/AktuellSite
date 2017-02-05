@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Ekhagastiftelsens </span>styrelse</h3>
+    <p class="head-desc">&nbsp;</p>
+    <h4>Stiftelsens styrelse består av:</h4>
+    <p>
+    &raquo; Helena Dandenell, ordförande<br />
+    &raquo; Arne Sjöström<br />
+    &raquo; Bo Ennerberg<br />
+    &raquo; Hubertus Videgård<br />
+    &raquo; Mats-Eric Nilsson
+    </p><br />
+	
+    <h4>Stiftelsens vetenskapliga råd består av:</h4>
+    <p>
+    &raquo; Torkel Falkenberg, Karolinska Institutet, ordförande<br />
+	&raquo; Ann-Marie Dock-Gustavsson, Jordbruksverket<br />
+	&raquo; Axel Mie, Karolinska Institutet - SÖS<br />
+	&raquo; Erik Steen Jensen, Sveriges Lantbruksuniversitet<br />
+	&raquo; Miek Jong, Louis Bolk Institute<br/>
+    &raquo; Walter Osika, Karolinska Institutet</p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

@@ -1,0 +1,65 @@
+/*****Basic Layout*****/
+
+ul#filter {
+	float: left;
+	font-size: 12px;
+	list-style: none;
+	margin-left: 0;
+	width: 100%;
+	margin: 20px 0;
+	border-bottom:1px solid #ccc;
+	padding-bottom:10px;
+}
+ul#filter li {
+	border-right: 1px solid #dedede;
+	float: left;
+	line-height: 16px;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+/*ul#filter li:last-child {
+	border-right: none;
+	margin-right: 0;
+	padding-right: 0;
+}*/
+ul#filter a {
+	color: #003366;
+	text-decoration: none;
+}
+ul#filter li.current a, ul#filter a:hover {
+	text-decoration: underline;
+}
+ul#filter li.current a {
+	color: #333;
+	font-weight: bold;
+}
+ul#portfolio {
+	font-size: 12px;
+	float: left;
+	list-style: none;
+	margin-left: 5px;
+}
+ul#portfolio li {
+	border: 1px solid #dedede;
+	float: left;
+	margin: 0 3px 10px 0;
+	padding: 2px 2px 10px 2px;
+	/*-moz-border-radius:4px;
+	-webkit-border-radius:4px;*/
+	width: 175px;
+}
+ul#portfolio a {
+	display: block;
+	width: 100%;
+	text-align:center;
+	text-decoration:none;
+	color:#003366;
+}
+ul#portfolio a:hover {
+	color:#ff0000;
+}
+
+ul#portfolio img {
+	border:none;	
+	display: block; padding-bottom: 10px;
+}

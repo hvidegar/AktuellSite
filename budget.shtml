@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Kostnader i </span>Budget</h3>
+    <p class="head-desc">&nbsp;</p>
+    <P>Ekhagastiftelsens styrelse har under de senaste åren diskuterat bland annat huruvida medel ska beviljas 
+	  till att täcka allmänna omkostnader vid universitet och högskolor utöver de direkt projektrelaterade kostnaderna. 
+	  Styrelsen har en restriktiv syn på detta och anser att beviljade forskningsmedel inte ska gå till kostnader 
+	  som inte är direkt relaterade till projekten stiftelsen sponsrar. Vissa overhead-kostnader kan vara relevanta, 
+	  som till exempel kostnader för ekonomiadministration eller IT, men måste i framtiden specificeras. </p>
+<br />
+	<P>Ekhagastiftelsens styrelse har beslutat att från och med 2008 tillämpa samma regler som gäller 
+	för Wallenbergstiftelserna gällande vilka kostnader som stiftelsen kan ge bidrag till. Därför 
+	har stiftelsen våren 2008 publicerat nya regler gällande budgetering av kostnader vid ansökan. 
+	Dessa nya regler återfinns i ansökningsmaterialet samt på stiftelsens webbsida. </p>
+<br />
+	<P>Till höger finns länk till de regler som gäller för Wallenbergstiftelserna. </p>
+	
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="bilagor/wbudget.pdf"><span>Redovisning av kostnader</span></a></h5>
+          <p class="head-desc">PDF-fil</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

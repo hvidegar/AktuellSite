@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Elektronisk </span>Ansökan</h3>
+    <p class="head-desc">&nbsp;</p>
+	<p><span>Elektronisk ansökan kommer INTE att användas 2014.</span></p>
+    <!-- <p>Vi håller på med att ta fram ett system för att hantera ansökningar på elektroniskt sätt. </p>
+    <br/>
+    <p>För den sökande är det ingen förändring i hur ansökan ska se ut och vilka uppgifter som ska anges. Upplägget kommer att vara att sökande matar in 
+	de uppgifter som finns på dagens ansökningsblankett i vårt nya system och därifrån genererar ett ansökningsformulär. Detta formulär skall sedan skrivas ut 
+	och skickas med på liknande sätt som tidigare.  </p>
+	<br/>
+    <p>Vårt mål har varit att ha detta system igång till ansökningsomgången 2010, men vi har idagsläget inte kommit så långt. </p>
+    <br/>
+    <p>Om vi lyckas lansera vår elektroniska ansökan innan den 10 maj önskar vi att så många som möjligt använder detta system.   </p>
+	<br/>
+    <p>Inloggning till vårt system för E-ansökan kommer att vara på denna sida.  </p> -->
+	<br/>
+    <p>Tyvärr har vi inte hunnit med att skapa detta ännu.  </p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

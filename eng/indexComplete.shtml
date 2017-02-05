@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script src="scripts/jquery.1.3.2.js" type="text/javascript"></script>
+<script type="text/javascript" src="scripts/slidemenu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="scripts/customize.js"></script>
+<script type="text/javascript" src="scripts/tabs/jquery.tools.tabs.js"></script>
+<script type="text/javascript" src="scripts/accordion-menu/ddaccordion.js"></script>
+<script type="text/javascript" src="scripts/accordion-menu/framework.js"></script>
+<script type="text/javascript" src="scripts/gallery/overlay/jquery.overlay.js" ></script>
+<script type="text/javascript" src="scripts/gallery/img/framework.js"></script>
+<script type="text/javascript" src="scripts/cufon/cufon-yui.js"></script>
+<script type="text/javascript" src="scripts/cufon/Myriad_Pro_600.font.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="scripts/DD_belatedPNG_0.0.8-min.js"></script>
+<link href="stylesheets/screen-ie6.css" type="text/css" rel="stylesheet" media="screen,projection" />
+<script type="text/javascript">
+DD_belatedPNG.fix('.apple_overlay div.close, .logo, .logo_ft, .navRight, .navLeft');
+</script>
+<style type="text/css"> 
+div.apple_overlay {	background-image:url(images/gallery/overlay_IE6.gif);color:#fff;}
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+<script type="text/javascript">
+	Cufon.replace('h1');
+	Cufon.replace('h2');	
+	Cufon.replace('h3');	
+	Cufon.replace('h4');
+	Cufon.replace('h5');
+	Cufon.replace('h6');		
+	<!--Cufon.replace('#left h3', { fontFamily: 'Myriad Pro' });-->		
+</script> 
+
+</head>
+<body>
+<!--header start -->
+<div id="header">
+  <ul class="topLink">
+    <li><a href="index.shtml" class="home">Hem</a></li>
+    <li><a href="http://www.ekhagastiftelsen.se/eng" class="news">In English</a></li>
+    <li><a href="kontakt.shtml" class="contact">Kontakt</a></li>
+    <li><a href="login.shtml" class="login"></a></li>
+  </ul>
+  <a href="http://www.ekhagastiftelsen.se/eng"><img src="images/logo.png" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" /></a> 
+</div>
+<!--header end -->
+<!--printheader start -->
+<img src="images/logoblack.png" id="svartlogga"  border="0" />
+<!--printheader end --> 
+<!--body start -->
+<div id="body">
+  <!--main menu start -->
+  <div id="boxmenu">
+    <p class="navLeft"></p>
+    <div id="myslidemenu" class="jqueryslidemenu">
+      <ul>
+        <li><a href="stiftelsen.shtml" >Om oss</a>
+          <ul>
+            <li><a href="stiftelsen.shtml">Ekhagastiftelsen</a></li>
+            <li><a href="stadgar.shtml">Stadgar</a></li>
+            <li><a href="styrelse.shtml">Styrelse</a></li>
+          </ul>
+        </li>
+        <li><a href="donator.shtml">Donator</a></li>
+        <li><a href="forskning.shtml">Forskning</a>
+          <ul>
+            <li><a href="forskning.shtml">Översikt</a></li>
+            <li><a href="anslag.shtml">Beviljade anslag</a>
+              <ul>
+                <li><a href="allaanslag.shtml">Alla anslag</a></li>
+                <li><a href="urval.shtml">Gör/Visa urval</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="andamal.shtml">Ansökan</a>
+		  <ul>
+	        <li><a href="andamal.shtml">Forskningsändamål</a></li>
+            <li><a href="vem.shtml">Vem kan söka?</a></li>
+            <li><a href="ansokan.shtml">Ansökan</a></li>
+            <li><a href="tidplan.shtml">Tidplan</a></li>
+            <li><a href="eansokan.shtml">E-ansökan</a></li>
+            <li><a href="rapportering.shtml">Rapportering</a></li>
+            <li><a href="rekvisition.shtml">Rekvisition</a></li>
+		  </ul>
+		</li>
+        <li><a href="medicin2010.shtml">Konferens</a>
+		  <ul>
+            <li><a href="medicin2010.shtml">Medicin 2010</a></li>
+            <li><a href="konferensprogram.shtml">Program</a></li>
+            <li><a href="forelasare.shtml">Föreläsare</a></li>
+            <li><a href="konferensanmalan.shtml">Anmälan</a></li>
+            <li><a href="konfernskontakt.shtml">Kontakt</a></li>
+            <li><a href="konferenshotell.shtml">Konferenshotell</a></li>
+		  </ul>				
+		</li>
+      </ul>
+      <br style="clear: left" />
+    </div>
+    <p class="navRight"></p>
+  </div>
+  <!--main menu end -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Välkommen till </span>Ekhagastiftelsen</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Ekhagastiftelsen grundades redan 1944 och stödjer sedan dess forskning inom ekologiskt lantbruk och biologisk medicin</p>
+    <br/>
+    <p> Under det senaste 10 åren har vi bidragit med över 66 miljoner kronor till forskningprojekt inom lantbruk och medicin.
+
+</p>
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+
+<!--footer start -->
+<div id="footer_out">
+  <div id="footer">
+    <p class="address">Ekhagastiftelsen, Box 34012, 10026 Stockholm.<br/>
+      Telefon: 070-240 81 81 E-post: info@ekhagastiftelsen.se <br/>
+      Copyright &copy; 2010 Ekhagastiftelsen. All Rights Reserved.</p>
+    <p class="tos"><a href="omwebbplatsen.shtml" class="link">&raquo; Om webbplatsen</a>&nbsp;|&nbsp;<a href="uppdaterad.shtml" class="link">&raquo; Uppdaterad: 2010-04-02</a></p>
+  </div>
+</div>
+
+<div id="footer_line"></div>
+<!--footer end -->
+<!--pfooter (printfooter) start -->
+<div id="fpooter_out"><br/><br/>
+  <div id="pfooter">
+    <p class="address">Ekhagastiftelsen, Box 34012, 10026 Stockholm.<br/>
+      Telefon: 070-240 81 81 E-post: info@ekhagastiftelsen.se <br/>
+	  Internet: www.ekhagastiftelsen.se<br/>
+      Copyright &copy; 2010 Ekhagastiftelsen. All Rights Reserved.</p>
+    <p class="tos"><a href="uppdaterad.shtml" class="link">&raquo; Uppdaterad: 2010-04-02</a></p>
+  </div>
+</div>
+<!--pfooter (printfooter) end -->
+</body>
+</html>

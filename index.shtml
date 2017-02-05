@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Välkommen till </span>Ekhagastiftelsen</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Ekhagastiftelsen grundades av Gösta Videgård så tidigt som 1944 och stödjer sedan dess forskning inom ekologiskt lantbruk och biologisk medicin.</p>
+    <br/>
+    <p>Sedan 1999 har vi bidragit med över 113 miljoner kronor till forskningprojekt inom våra prioriterade områden.</p>
+	<br/>
+    <p>Välkommen att läsa mer om oss på vår webbplats.</p>
+	<br/>
+    <p>Här har vi samlat all information om oss gällande bland annat vilken forskning vi stöder, vilka projekt som har fått anslag och hur man ansöker om medel.</p>
+	
+	  </div>
+	  
+	  
+	  
+	  
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="#"><span>OBS! Ny ansökingsblankett</span></a></h5>
+          <p class="head-desc">och instruktioner</p>
+        </div>
+        </li> 
+          </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

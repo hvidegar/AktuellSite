@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+<link href="pagestyle.css" rel="stylesheet" type="text/css" />
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Gösta </span>Videgård</h3><br />
+	
+    <p class="head-desc">Ekhagastiftelsens grundare och donator</p>
+    <p><img src="images/gv2.png" border="0" padding="10px" alt="" align="left" class="office_pic"/>
+Gösta Videgård föddes 1893, var byggnadsingenjör och bedrev under 1930- och 
+1940-talen en mycket framgångsrik byggnadsverksamhet i Stockholm. Efter år 1948 ägnade Gösta 
+Videgård sig till övervägande del åt affärsverksamhet. Han var en av de första inom landet 
+som insåg kylteknikens möjligheter. Bl a bedrev han rederirörelse med kylfartyg. År 1952 
+avled Gösta Videgård under affärsresa i utlandet.</p><br />
+
+<p>I sin personliga livsföring ägnade Gösta Videgård stort intresse åt &quot;det naturliga 
+sättet att sköta sig och sin föda&quot;. Hans livsföring präglades av en kärlek till 
+naturen och till det som enligt hans uppfattning var naturligt och naturenligt. 
+Personligen hade han enkla levnadsvanor, använde i viss utsträckning vegetarisk 
+kost och ägnade sig gärna åt segling, skidåkning och annan sport och friluftsliv. 
+Hans strävan efter en sund och hälsosam livsföring kan i viss mån ha sammanhängt 
+med att han alltsedan ungdomen hade ganska svag hälsa och drabbades av många sjukdomar. 
+När det gällde behandling av dessa sjukdomar kom hans tilltro till naturliga mediciner i 
+förhållande till gängse mediciner till synes. Hans starka tro på naturen och dess förmåga 
+att bota och ge sunda produkter medförde att han på jordbrukets område kom att intressera 
+sig för naturenliga metoder, främst den biodynamiska. På det medicinska området fäste han 
+sig särskilt för de behandlingsmetoder - baserade på naturläkekost - som tillämpades bl a 
+vid kuranstalten Cademario i Schweiz.</p><br />
+
+<p>Genom en stiftelseurkund den 1 december 1944 bildade Gösta Videgård en stiftelse, 
+kallad Ekhagastiftelsen, till vilken han donerade största delen av sin förmögenhet.</p>
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

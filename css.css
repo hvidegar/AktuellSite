@@ -1,0 +1,149 @@
+BODY {
+	BORDER-TOP-WIDTH: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-WIDTH: 0px;
+	BORDER-BOTTOM-WIDTH: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+	FONT-FAMILY: Verdana, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #ffffff;
+	BORDER-RIGHT-WIDTH: 0px;
+}
+TABLE {
+	BORDER-TOP-WIDTH: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-WIDTH: 0px;
+	BORDER-BOTTOM-WIDTH: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+	BORDER-COLLAPSE: collapse;
+	BORDER-RIGHT-WIDTH: 0px;
+	border-spacing: 0px;
+}
+TD {
+	BORDER-TOP-WIDTH: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-WIDTH: 0px;
+	BORDER-BOTTOM-WIDTH: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+	BORDER-COLLAPSE: collapse;
+	BORDER-RIGHT-WIDTH: 0px;
+	border-spacing: 0px;
+	}
+TR {
+	BORDER-TOP-WIDTH: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-WIDTH: 0px;
+	BORDER-BOTTOM-WIDTH: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+	BORDER-COLLAPSE: collapse;
+	BORDER-RIGHT-WIDTH: 0px;
+	border-spacing: 0px;
+}
+
+.f-col {
+	height : 60px;
+	vertical-align : middle;
+}
+
+.v-col {
+	vertical-align : top;
+	width : 130px;
+	text-align : center;
+}
+
+.bp-table {
+    text-align : left;
+	font : normal smaller Verdana;
+}
+
+.bp-col1 {
+	vertical-align : top;
+	width : 75px;
+}
+
+.bp-colx {
+	vertical-align : top;
+	width : 100px;
+}
+
+.bp-col2 {
+	vertical-align : top;
+}
+
+
+.lank {
+    text-decoration: none;
+    color : black;
+}	
+	
+.h-col {
+	width : 510px;
+}
+
+.nns-col {
+	height : 30px;
+}
+
+
+.ns-col {
+	background-color : White;
+	border-bottom : thin solid Black;
+	text-align : left;
+	font : smaller Verdana;
+	height : 30px;
+}
+
+.sv-col {
+	background : White;
+}
+
+.sh-col {
+	background : White;
+	width : 510px;
+	text-align : left;
+	font : normal smaller Verdana;
+	height : 30px;
+}
+
+#innehall {
+	BORDER-TOP-WIDTH: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-WIDTH: 0px;
+	FONT-SIZE: 11pt;
+	BACKGROUND-IMAGE: url(bilder/bla.gif);
+	BORDER-BOTTOM-WIDTH: 0px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	LINE-HEIGHT: 16pt;
+	PADDING-TOP: 0px;
+	BORDER-RIGHT-WIDTH: 0px
+}
+
+.artikel {
+	BORDER-RIGHT: #666666 1px solid;
+	PADDING-RIGHT: 13px;
+	BORDER-TOP: #666666 1px solid;
+	MARGIN-TOP: 0px;
+	PADDING-LEFT: 13px;
+	FONT-SIZE: 12px;
+	MARGIN-BOTTOM: 15px;
+	PADDING-BOTTOM: 13px;
+	BORDER-LEFT: #666666 1px solid;
+	LINE-HEIGHT: 18px;
+	MARGIN-RIGHT: 15px;
+	PADDING-TOP: 13px;
+	BORDER-BOTTOM: #666666 4px solid;
+	BACKGROUND-COLOR: #ffffff
+}

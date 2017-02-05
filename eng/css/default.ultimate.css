@@ -1,0 +1,125 @@
+@import "default.css";
+
+
+/*-------------------------------------------------/
+ * @section		Base Style Extension
+ */
+
+ul.dropdown a,
+ul.dropdown span {
+ display: block;
+ padding: 9px 10px;
+}
+
+
+
+/*-------------------------------------------------/
+ * @section		Base Style Override
+ */
+
+ul.dropdown li {
+ padding: 0;
+ border: none;
+}
+
+ul.dropdown ul a,
+ul.dropdown ul span {
+ padding: 8px;
+}
+
+
+
+/*-------------------------------------------------/
+ * @section		Base Style Reinitiate: post-override activities
+ */
+
+
+
+
+
+/*-------------------------------------------------/
+ *	@section	Custom Styles
+ */
+
+ul.dropdown li {
+
+}
+
+ul.dropdown li.hover,
+ul.dropdown li:hover {
+ /*background: url(../images/grad2.png) 0 100% repeat-x;*/
+ background-color:#2E2E2E;
+ /*color: #0066ff;*/
+}
+
+ul.dropdown li a:active {
+ background: url(../images/grad1.png) repeat-x;
+}
+
+
+/* Non-first level */
+
+ul.dropdown ul {
+ margin-top: 0;
+}
+
+	ul.dropdown ul li {
+	background-color: #222;
+	}
+
+	ul.dropdown ul li.hover,
+	ul.dropdown ul li:hover {
+	color: #0066ff;
+	}
+
+
+
+/* Mixed */
+
+ul.dropdown li a,
+ul.dropdown *.dir {
+ /*border-style: solid;
+ border-width: 1px 1px 1px 0;
+ border-color: #fff #d9d9d9 #d9d9d9;*/
+ 
+}
+
+
+
+/*-------------------------------------------------/
+ * @section		Support Class `open` Usage
+ * @source		js, artificial
+ *
+ */
+
+ul.dropdown li.hover *.open {
+ border-style: solid;
+ border-width: 1px 1px 1px 0;
+ border-color: #ff0000 #2e2e2e #2e2e2e;
+ background-color: #2e2e2e; 
+ color: #0066ff;
+}
+
+ul.dropdown ul li.hover *.open {
+ padding-left: 15px;
+ border-top-color: #2e2e2e;
+ border-left: solid 1px #ff0000;
+}
+
+	/* CSS2 clone */
+
+	ul.dropdown li:hover > *.dir {
+	 border-style: solid;
+	 border-width: 1px 1px 1px 0;
+	 border-color: #ff0000 #2e2e2e #2e2e2e;
+	 background-color: #2e2e2e; 
+	 color: #0066ff;
+	}
+
+	ul.dropdown ul li:hover > *.dir,
+	ul.dropdown-vertical li:hover > *.dir {
+	 padding-left: 15px;
+	 border-top-color: #2e2e2e;
+	 border-left: solid 1px #ff0000;
+	}
+
