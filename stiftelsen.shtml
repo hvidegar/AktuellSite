@@ -94,12 +94,12 @@
   <!--right start -->
   <div id="right">
     <ul class="sub">
-      <li>
+      <!--<li>
         <div class="box-head">
           <h5><a href="bilagor/ekhagastiftelsen.pdf"><span>Presentation</span></a></h5>
           <p class="head-desc">av Ekhagastiftelsen</p>
         </div>
-      </li>
+      </li>-->
 	  <li>
         <div class="box-head">
           <h5><a href="dahlmanska.shtml"><span>Dahlmanska utredningen</span></a></h5>
