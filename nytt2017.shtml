@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Nya </span>Ansökningsinstruktioner från 20 mars 2017</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>Den 20 mars 2017 har vi genomfört en större uppdatering av vår hemsida. Vi har bland annat lagt ut mer utförlig information 
+		gällande vilken typ av forskning det är som vi ger stöd till. </p>
+    <br/>
+    <p>I samband med detta har vi uppdaterat våra ansökningsinstruktioner så att det ska bli enklare att ansöka om medel från oss.</p>
+	<br/>
+    <p>Vi önskar att alla går över och använder våra uppdaterade ansökningsinstruktioner, men vi kommer inte
+		underkänna ansökningar enligt våra äldre ansökningsrutiner. Använder man vår nya information så kommer man att ha vissa
+		fördelar jämfört med om man använder de gamla instruktionerna.</p>
+	<br/>
+    <p>Förenklingar </p>
+	<p>&raquo; Uppdaterat ansökningsformulär som är ett PDF-formulär.</p>
+	<p>&raquo; Ansökan skickas per e-post till stiftelsen. </p>
+    <p>&raquo; Bara det 2 sidiga ansökningsformuläret måste postas till stiftelsen.</p> 
+    <p>&raquo; Bättre beskrivningar av de forskningsområden som är viktiga för oss. </p>
+    <p>&raquo; Mer information om vad som är viktigt i ansökan.</p>
+    <p>&raquo; Uppdaterade budgetinstruktioner och budgetmall.</p>
+    
+	<br/>
+	  </div>
+	  
+	  
+	  
+	  
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="#"><span>OBS! Ny ansökingsblankett</span></a></h5>
+          <p class="head-desc">och instruktioner</p>
+        </div>
+        </li> 
+          </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>
