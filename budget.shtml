@@ -12,32 +12,72 @@
   <div id="left">
     <h3><span>Kostnader i </span>Budget</h3>
     <p class="head-desc">&nbsp;</p>
-    <P>Ekhagastiftelsens styrelse har under de senaste åren diskuterat bland annat huruvida medel ska beviljas 
-	  till att täcka allmänna omkostnader vid universitet och högskolor utöver de direkt projektrelaterade kostnaderna. 
-	  Styrelsen har en restriktiv syn på detta och anser att beviljade forskningsmedel inte ska gå till kostnader 
-	  som inte är direkt relaterade till projekten stiftelsen sponsrar. Vissa overhead-kostnader kan vara relevanta, 
-	  som till exempel kostnader för ekonomiadministration eller IT, men måste i framtiden specificeras. </p>
-<br />
-	<P>Ekhagastiftelsens styrelse har beslutat att från och med 2008 tillämpa samma regler som gäller 
-	för Wallenbergstiftelserna gällande vilka kostnader som stiftelsen kan ge bidrag till. Därför 
-	har stiftelsen våren 2008 publicerat nya regler gällande budgetering av kostnader vid ansökan. 
-	Dessa nya regler återfinns i ansökningsmaterialet samt på stiftelsens webbsida. </p>
-<br />
-	<P>Till höger finns länk till de regler som gäller för Wallenbergstiftelserna. </p>
+	
+	<p>En detaljerad budget ska lämnas in som del av projektbeskrivningen.<br/>
+	Det finns ingen mall för hur budgeten ska se ut utan sökande får skapa sin egen budgetuppställning utgående från 
+	uppgifterna nedan gällande vilka kostnader vi accepterar och vilka uppgifter vi önskar om budgeten.</p> 
+	<br />
+	<h4>Godkända kostnadsslag</h4>
+	<p>Ekhagastiftelsen kan bevilja medel för följande kostnadsslag i en ansökan:</p>
+	<br />
+	<h5>1. Löner</h5>
+	<p>Direkta kostnader för löner inkl. rimligt lönekostnadspålägg för i projektet verksamma personer. <br/>
+	Lönekostnadspålägg är avgifter som en arbetsgivare ska betala för sina anställda (arbetsgivaravgifter, 
+	försäkringspremier, etc) och ligger i Sverige i spannet 40-50%.<br>
+	Ange i projektet verksamma personer samt lönekostnad och hur stor del av arbetstiden personen arbetar i projektet 
+	alternativt antal arbetstimmar och timkostnad. Redovisa lönekostnadspålägg separat och ange både belopp och procentsats.</p>
+	<br />
+	<h5>2. Utrustning, instrument, material</h5>
+	<p>Stiftelsen kan finansiera kostnader för utrustning, instrument, förbrukningsmaterial, etc. som behövs i projektet. <br />
+	Budgeten ska innehålla en uppställning av kostnadsdetaljer, dock på en övergipande nivå. 
+	Det finns till exempel inget behov av att lista alla typer av förbrukningsmaterial som kommer att användas. </p>
+	<br />
+	<h5>3. Resor</h5>
+	<p>Stiftelsen kan finansiera kostnader för resor, konferenser, etc. som behövs i projektet.<br />
+	I budgeten ska det framgå syftet med resorna och övergripande detaljer. </p>
+	<br />
+	<h5>4. Lokalkostnader</h5>
+	<p>Direkta lokalkostnader för under punkten Löner nämnda personer. <br />
+	Lokalkostnader ska finnas med som en egen post i budgeten även om den ska anges i kolumnen Övrigt på ansökningsblanketten.</p>
+	<br />
+	<h5>5. Övrigt</h5>
+	<p>Övriga direkta projektrelaterade kostnader såsom ekonomiadministration och IT-system.<br />
+	Övriga kostnader ska specificeras i budgeten.</p>
+	<br />
+	
+	<h4>Indirekta/Overhead-kostnader</h4>
+	<p>Ekhagastiftelsen har en restriktiv syn på huruvida medel ska beviljas till att täcka 
+	allmänna omkostnader vid universitet och högskolor utöver de direkt projektrelaterade kostnaderna.
+	Vi anser att beviljade forskningsmedel enbart ska gå till kostnader som är direkt relaterade till 
+	projekten stiftelsen finansierar. Vissa indirekta kostnader kan vara relevanta, som till exempel 
+	kostnader för ekonomiadministration eller IT, men måste specificeras.</p>
+	<br />
+	<p>Ett ospecificerat/schablonmässigt tillägg av exempelvis universitetspåslag kommer inte att kunna accepteras. Ej heller 
+	accapterar stiftelsen budgetposter så som exempelvis universitets/fakultets/institutionsgemensamma kostnader, kostnader för ledning, 
+	bibliotek, utbildning, infrastruktur, etc. Vi förutsätter också att inga påslag läggs på vid inköp av till exempel
+	utrustning och material. </p>
+	<br/>
+	
+	<h4>Medfinansiering och anslag från andra anslagsgivare</h4>
+	<p>I budgeten skall anges vilka bidrag som förvaltande organ/institution/universitetet 
+	ger exempelvis i form av lön för andra anställda som deltar i projektet, s.k. medfinansiering.</p>
+	<br />
+	<p>När det är ett projekt där man har eller söker finansiering från annan anslagsgivare ska totalbudgeten redovisas övergipande 
+	och det klart och tydligt framgå vilka medel Ekhagastiftelsen ska bidra med. </p>
 	
   </div>
   <!--left end -->
-  <!--right start -->
+  <!--right start 
   <div id="right">
     <ul class="sub">
       <li>
         <div class="box-head">
-          <h5><a href="bilagor/wbudget.pdf"><span>Redovisning av kostnader</span></a></h5>
+          <h5><a href="xxx"><span>xxx</span></a></h5>
           <p class="head-desc">PDF-fil</p>
         </div>
       </li>
     </ul>
-  </div>
+  </div>-->
   <!--right end -->
   <br class="spacer" />
   <!--center start -->
