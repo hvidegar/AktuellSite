@@ -12,16 +12,21 @@
   <div id="left">
     <h3><span>Rekvisition av  </span>medel</h3>
     <p class="head-desc">&nbsp;</p>
-    <p>Normalt betalas godkänt anslag ut med maximalt 80 % inför projektstart. En första utbetalning kan först ske efter det att den populärvetenskapliga sammanfattningen skickats 
-	in till stiftelsen. Resterande belopp kan betalas ut när slutrapport lämnats in och godkänts av stiftelsen. 
-	Om slutrapport inte lämnas in kan stiftelsen göra anslagstagaren återbetalningsskyldig för utbetalda belopp.</p>
+    <p>Utbetalning av anslag kan ske löpande under året efter rekvisition från anslagstagare.<br/>
+	En första utbetalning kan först ske efter det att en populärvetenskaplig sammanfattning skickats in till stiftelsen.<br/>
+	Anslag betalas ut för ett år i taget med upp till 80 % av årets anslag.<br/>
+	För flerårsanslag skall årsrapport lämnas in och fortsatta medel är beroende på kvalitén av inkommen årsrapport.<br/>
+	Resterande medel kan betalas ut efter att års- eller slutredovisning godkänts  och anslagstagare rekvirerat medlen. <br/>
+	För anslag över 250 000 kr per år betalas medel ut per halvår resp. tertial.<br/>
+	&raquo; Tertialsvis när utbetalning (80%) ligger på mer än 100 000, annars halvårsvis. <br/>
+	&raquo; Till utländska anslagsmottagare sker utbetalningar bara halvårsvis.<br/>
+	Medel som ej rekvirerats inom 2 år från projektslut återtas av stiftelsen.</p>
+	<br/>
+	<p>Om slutrapport inte lämnas in kan stiftelsen göra anslagstagaren återbetalningsskyldig för utbetalda belopp.</p>
     <br/>
-    <p> Anslag som sträcker sig över flera år betalas ut ett år i taget. För flerårsanslag skall årsrapport lämnas in och fortsatta medel är beroende på kvalitén av
-	inkommen årsrapport.  </p>
+    <p>För rekvisition av medel finns ingen blankett. Medel rekvireras genom att skicka ett brev till stiftelsen. </p>
 	<br/>
-    <p> För rekvisition av medel finns ingen blankett. Medel rekvireras genom att skicka ett brev till stiftelsen. </p>
-	<br/>
-	<p>OBS! Skicka inte rekvisitionen som faktura!</p>
+	<p><span>OBS! Skicka inte rekvisitionen som faktura.</span></p>
 	<br/>
     <p> Brevet ska innehålla </p>
 	<p>&raquo; projektets diarienummer,  </p>
@@ -30,30 +35,25 @@
     <p>&raquo; totalt beviljat belopp, </p>
     <p>&raquo; tidigare rekvirerat belopp,</p>
     <p>&raquo; belopp som nu rekvireras,</p>
-	<p>&raquo; samt utbetalningsinstruktioner.</p>
+	<p>&raquo; samt utbetalningsinstruktioner (namn på kontohavare och bank- eller plusgironummer
+	alternativt kontonummer med clearingnr och banknamn).</p>
 	<br/>
-    <p>Medel som ej rekvirerats inom 2 år från projektslut återtas av stiftelsen.</p>
+    <p>För utlandsbetalningar vill vi ha IBAN-nummer och BIC-kod/Swift-adress samt namn på bank och kontohavare. 
+	I länder där man inte använder IBAN-nummer måste följande uppgifter anges: Kontohavare, kontonummer, banknamn, 
+	bankens adress och BIC-kod/Swift-adress.</p>
   </div>
   <!--left end -->
-  <!--right start 
+  <!--right start -->
   <div id="right">
     <ul class="sub">
-      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
-        </a>
+      <li> 
         <div class="box-head">
-          <h5><a href="#"><span>Ansökan</span></a></h5>
-          <p class="head-desc">E-ansökan</p>
+          <h5><a href="/bilagor/ExampleFundRequest.pdf#"><span>Exempel</span></a></h5>
+          <p class="head-desc">på rekvisitioner</p>
         </div>
         </li> 
-      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
-        </a>
-        <div class="box-head">
-          <h5><a href="#"><span>Kontakt</span></a></h5>
-          <p class="head-desc">phone, fax, e-mail</p>
-        </div>
-      </li>
     </ul>
-  </div>-->
+  </div>
   <!--right end -->
   <br class="spacer" />
   <!--center start -->
