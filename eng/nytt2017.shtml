@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>New </span>application instructions from March 23 2017</h3>
+    <p class="head-desc">&nbsp;</p>
+    <p>On March 23 2017 we made a large revision and update to our website. We have published more detailed information regarding 
+	what type of research we finance. </p>
+    <br/>
+    <p>At the same time we have updated our application instructions so that it will be easier to apply for grants from us.</p>
+	<br/>
+    <p>We ask that everybody starts using our updated application instructions, but we will not reject applications sent in 
+	using our old rules. Using our new information will have certain advantages compared to using the old instructions.</p>
+	<br/>
+    <p>Simplifications </p>
+	<p>&raquo; Updated application form that is a PDF-form.</p>
+	<p>&raquo; Application to be sent by e-mail. </p>
+    <p>&raquo; Only the 2-page application form must be sent by regular mail.</p> 
+    <p>&raquo; Better information regarding the research areas that are important for us. </p>
+    <p>&raquo; More information about what is important to include in an application.</p>
+    <p>&raquo; Updated budget instructions.</p>
+    
+	<br/>
+	  </div>
+	  
+	  
+	  
+	  
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li>
+        <div class="box-head">
+          <h5><a href="#"><span>OBS! Ny ansökingsblankett</span></a></h5>
+          <p class="head-desc">och instruktioner</p>
+        </div>
+        </li> 
+          </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>

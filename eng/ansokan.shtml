@@ -12,132 +12,159 @@
   <div id="left">
     <h3><span>Applications for </span>grants</h3>
     <p class="head-desc">&nbsp;</p>
-    <P>Applications have to be made on a special application form which is available on this website - www.ekhagastiftelsen.se - 
-	or can be requested per mail from our office. </p>
-<!--<br />
-<p><span>IMPORTANT! Read the information about our coming E-application! See link in meny bar.</span></p>-->
-<br />
- <p><span>Note! Please make sure you download the current application form! (New every year)</span></p>
-<br />
-<p>Application deadline is May 20th 2017, which is the day we must have received the application. 
-Applications must be sent by mail to our Post Office Box. 
-NOTE! Messenger or courier services can not deliver to Post Office Boxes. 
-If you want to deliver the application personally or by courier, 
-please contact us by e-mail or by phone (+46 70 240 81 81) at least one week before the deadline.</p>
-<br />
-<p>A project description of no more than 10 pages shall be included as a supplement to the application. 
-It should describe and answer and the following aspects (if applicable):
-<br /><br />
-&raquo; What problem or which question is to be solved/answered? Which idea or vision is to be tested or further developed?<br />
-&raquo; What is the hypothesis?<br />
-&raquo; Present situation, current international knowledge/research (including references) and conclusions.<br />
-&raquo; Goal or purpose/aim<br />
-&raquo; Material and methods<br />
-&raquo; Time plan and budget<br />
-&raquo; Expected results and their importance/significance. How are the results to be evaluated? How will the project be documented and disseminated?<br />
-</p>
-<br />
-<p>In a second supplement the qualifications and references of the applicant and co-applicants should be stated, 
-especially within the area that the foundation supports.</p>
-<br />
-<p>An application data sheet with information about the application has to be sent in by e-mail to the foundation. This data sheet also has to be sent 
-in with the rest of the application. The Excel-template is available for download at the foundations website.</p> 
-<br />
-<p>For applications prepared with a word processor the font size should be at least 12 points.</p>
-<br />
-<p>The application including supplements is to be submitted in seven copies (as the applications are to be distributed to the members of the 
-scientific advisory council).</p>
-<br />
-<p>Applications sent in by e-mail or fax will not be considered.</p>
-<br />
-<p>Please make our work easier by submitting the application not stapled together and if possible using both sides of the paper. </p>
-<br />
-<h4>Rules regarding the application budget:</h4>
+    <P> An application to Ekhagastiftelsen must consist of three documents:<br>
+	 <h5>1. &raquo; Application form</h5> 
+	 <h5>2. &raquo; Application data sheet</h5>
+	 <h5>3. &raquo; Project description</h5></p>
+	<br/>
+	<p>
+	All three documents have to be sent together in an e-mail message to info@ekhagastiftelsen.se.<br/>
+	A printed and signed application form has to be sent by regular mail to our Post Office Box.</p>
+	<br/>
+	<p>Application deadline is May 20th 2017, which is the day we must have received the application (including the form sent by regular mail - 
+	postmarked date is not valid). Applications must be sent by mail to our Post Office Box. NOTE! Messenger or courier services can not deliver 
+	to Post Office Boxes. If you want to deliver the application personally or by courier, please contact us by e-mail or by telephone 
+	(+46 70 240 81 81) at least one week before the deadline.</p>
+	<br />
+	<p>The application can be made in Swedish or English, but it is probably an advantage to write in Swedish if possible. </p>
+	<br />
+	
+	<h4>Application form</h4>
+	<p>Every year an updated application form can be downloaded from our website - see link in the right column of this page.</p>
+	<br/>
+	<p>The summary of the project has to describe the application in a popular scientific way, meaning that you should not need to have detailed 
+	knowledge of the subject in order to understand the application. It is also important to describe in which ways the project contributes to 
+	public health, why the application is relevant for Ekhagastiftelsen and how it matches our prioritized research areas. For example how does 
+	the application contribute to improving the self-healing capabilities?</p>
+	<br/>
+	<p>Detailed instructions on how to fill out the application form are available in a separate document that can be downloaded - 
+	see link in the right column of this page. </p>
+	<br />
+	
+	<h4>Application data sheet</h4>
+	<p>The information from the application form is also to be entered into the application data sheet (Excel-template) 
+	that can be downloaded - see link in the right column of this page.</p>
+	<p><span>Note! The application data sheet must be sent as an Excel-file in Excel-format (.xlsx or .xls)!</span></p>
+	<br />
+	
+	<h4>Project description</h4>
+	<p>The following aspects should be described in the project description:<br />
+	<br />
+	&raquo; What problem or which question is to be solved/answered? Which idea or vision is to be tested or further developed?<br />
+	&raquo; What is the hypothesis?<br />
+	&raquo; Goal or purpose/aim<br />
+	&raquo; How it the project relevant with respect to the aims of the foundation?<br />
+	&raquo; Present situation, current international knowledge/research (including references) and conclusions.<br />
+	&raquo; Material and methods<br />
+	&raquo; Expected results and their importance/significance. How are the results to be evaluated? How will the project be documented and disseminated?<br />
+	&raquo; Time plan <br />
+	&raquo; Budget and information about financing from other organizations.</p>
+	<br />
+	<p>At the end of the project description the qualifications and references of the applicant and co-applicants should be stated, 
+	especially within the area that the foundation supports. This is often done through a C.V. </p>
+	<br />
+	<p>The project description including any appendices and supplements has to be sent as one (1) PDF-file.<br/>
+	<span>If the project description is sent in any other data format or as more than one file the application will be returned. </span></p>
+	<br />
+	<h5>Description of relevance</h5>
+	<p>The project description must include a section that describes why the application is relevant for Ekhagastiftelsen, 
+	how it matches our prioritized research areas and in which ways the project contributes to public health.</p>
+	<br />
+	<h5>Budget</h5>
+	<p>Information about our budget requirements can be found on the page  
+	<a href="budget.shtml">Budget</a>.</p>
+	<br />
+	<h5>Applications from outside Europe or North America</h5>
+	<p>For applications that do not come from Europe or North America we require that the project has a cooperation with a swedish institution. 
+	The swedish partner must be involved in the research project, and the details of the research cooperation must be described in the project description.</p>
+	<br />
+	<h5>Financing from other organizations</h5>
+	<p>Ekhagastiftelsen can award grants to projects where the foundation is one of several funders. Usually the foundation does not 
+	support projects where our contribution would only be a small part of the total budget.</p>
+	<br />
+	<p>In the application form the applicant has to state information regarding grant received or applied for at other organizations. 
+	In the project description the applicant has to further elaborate this and for example answer some of the following issues and questions:<br>
+	<br />
+	&raquo; How is a project/subproject interrelated when funds are applied for at Ekhagastiftelsen and other organizations for the 
+	same research area? What is Ekhagastiftelsens role/part of a larger funding?<br />
+	&raquo; What happens with the project if requested funds are not granted by Ekhagastiftelsen or other funders? Does the project 
+	need to receive financing from all funders in order to be carried out?<br />
+	&raquo; If grants are applied for at both Ekhagastiftelsen and other organizations and all applications are approved, can the 
+	funders contributions be reduced as the project has received more funding than needed to carry out the project?<br />
+	&raquo; When the project is already ongoing, for what/which parts is it that funds are 	sought?<br />
+	&raquo; What other funds have already been received and what have they been used for?<br />
+	&raquo; To write that you are glad for and can make use of any amount received is not a relevant answer. (actually heard from an applicant).</p>
+	<br />
+	
+	<h4>Amounts that can be applied for</h4>
+	<p>There is no maximum amount that can be applied for. Please note that in the last years the total amount awarded has been in the 
+	range 5-10 million SEK. Usually between 10 and 20 projects receive funding each year. The largest amount ever awarded has 
+	been 1&nbsp;500&nbsp;000 SEK (for the complete application - not for one year). </p>
+	<br />
+	<p>If it is evaluated that the project can manage with a reduced budget, it can be that such an amount is awarded. 
+	If a grant recipient receives funding from other funders for the same project Ekhagastiftelsens grant can be reduced. </p>
+	<br />
 
-<p>A detailed budget is to be submitted as a supplement to the application. </p> 
-<br />
-<p>Evaluating the applications, Ekhagastiftelsen will accept the following types of costs:</p>
-<br />
-<p>A.	Direct costs for salaries for active personnel in the project (including reasonable salary related costs such as for example taxes 
-paid by the employer - lkp (lönekostnadspålägg)), equipment/instruments, travel etc. </p>
-<br />
-<p>B.	Direct office/building costs for under A mentioned personnel (specification of current cost per square metre and 
-norm regarding room size per person). </p>
-<br />
-<p>C.	Other direct project related costs such as for example administration of budget and IT-systems.  </p>
-<br />
-<p>In the project budget (which is to be submitted as an supplement to the application) salary costs for project personnel which can not 
-be supported by other funds available to the applicant/organization, office/building costs for these persons, and other costs are to be stated.  </p>
-<br />
-<p>The budget shall also show which funds are given to the project by the institution/university/managing body. For example in the 
-form of salaries for other personnel participationg in the project. </p>
-<br />
-<p>A budget item for example for unspecified university fees or unspecified overhead (for example universitetspåslag) can not be accepted.</p>
-<br />
-<p>More information regarding the background for these new rules can be found on a separate webpage. See link BUDGET in the menyn.</p> 
+	<h4>Payment of funds</h4>
+	<p>Information on how awarded funds are paid out can be found on the page 
+	<a href="rekvisition.shtml">Request funds</a>.</p>
+	<br />
 
-<p>&nbsp;</p>
-<h4>Amount that can be applied for</h4>
-
-<p>There is no maximum amount that can be applied for in the application. Please note that in the last years the total amount awarded has 
-been in the range 5-10 million SEK. We try to award approximately equal amounts towards ecological agriculture and biological medicine and 
-keep the number of projects to between 10 and 20 per year. The largest amount ever awarded has been 1.500.000 SEK (for the complete application - not for one year). </p>
-
-<p>&nbsp;</p>
-<h4>Instructions for filling out the application form</h4>
-<p class="head-desc">RESEARCH GRANTS</p>
-<p>The primary aim of the foundation is to support research in ecological agriculture, biological medicine and the importance of 
-he way of life for the human health. The application can be for up to three year long projects. For multi-year projects a yearly report must be handed in. </p>
-<br />
-<p class="head-desc">SCHOLARSHIPS</p>
-<p>Grants can also be awarded in the form of scholarships for studies/travel relating to research within the primary goals of the foundation.</p>
-<br />
-<p><span>References to numbers on the form:</span>
-<br />
-1. &raquo; Managing body/person: The body/person who is responsible for and keeps accounts for a possible grant.<br />
-2. &raquo; The project title may contain no more than 20 words. In an application for scholarship the title of related research project shall be stated.<br />
-3. &raquo; A summary description of the projects, studies or travels aim/purpose, implementation and significance/importance is to be written in 
-this space. A reference to a supplement is not accepted. A more detailed project description should, however, be submitted as a separate supplement. <br />
-4. &raquo; Enter keywords that characterize the project. The keywords will be used for searches in a separate register.<br />
-5. &raquo; Applications can be made for up to three year long projects. The budget is to be further detailed in a separate document. Amount should
-be stated in SEK (Swedish kronor).<br />
-6. &raquo; If an application within the same area has been or is to be sent to another organization, the applicant has to specify name of 
-other organization, funds applied for and funds granted. This is in order to be able to coordinate grants with other organizations.<br />
-7. &raquo; The signature of department/faculty head implies that the organization accepts administrational responsibility for 
-granted funds and places resources necessary for the realization of the project at the disposal of the project.<br />
-8. &raquo; If a yearly report for an earlier granted project is attached this is not enough to fulfill the reporting 
-requirements of the earlier project. The project has to send in a report separately.</p>
-<br />
-
-<h4>Criteria for prioritization of applications</h4>
-<p>Applications are evaluated and prioritized by a scientific advisory council. 
-Based upon the councils recommendations, the board decides on award of funds at a meeting in October.</p>
-<br />
-<p>Prioritization criteria are:<br />
-&raquo; The relevance of the project idea with respect to the aims of the foundation.<br />
-&raquo; The scientific quality of method and execution, including the applicants competence for the project and for the time plan and budget presented. </p>
+	<h4>Evaluation of applications</h4>
+	<p>Applications are evaluated and prioritized by our scientific advisory council. Based upon the council's recommendations, the board 
+	takes decisions on awards of funds at its meeting in the fall (usually September-October).</p>
+	<br />
+	<p>Prioritization criteria are:<br />
+	&raquo; The relevance of the project idea with respect to the aims of the foundation.<br />
+	&raquo; The framing of question for the project<br />
+	&raquo; The scientific quality of method and execution, including the applicants competence for the project and the time plan and budget presented. </p>
+	<br />
+	<h5>Assessment of relevance</h5>
+	<p>The most important evaluation criteria is the relevance of the application with respect to the aims of the foundation. 
+	For detailed information about Ekhagastiftelsens aim and prioritized research areas see the page 
+	<a href="stiftelsen.shtml">Ekhagastiftelsen - Purpose of the foundation</a>.</p>
+	<br />
+	<p>Below we want to make some clarifications regarding relevance.<br />
+	&raquo; Research in animal husbandry is not a priority, unless there is a connection to the quality of the animal products.<br />
+	&raquo; Research regarding the environment is of lower relevance for the foundation. Support can be relevant to the extent as this has a positive 
+	effect on the capacity of the agricultural system (organic matter and biodiversity) in the long run to deliver ecosystem services that can reduce 
+	the need for chemical pesticides and fertilizers as well as securing the quality of agricultural products. <br />
+	&raquo; Regarding the medical field, it should be mentioned that the founder Gösta Videgård repeatedly expressed a certain distrust of mainstream 
+	medicine. What he reacted against was particularly the use of drugs and medicines containing such agents which in his opinion could not be considered natural.<br />
+	&raquo; Gösta Videgård was opposed to artificial substances and poisons of all kinds.</p>
+	<br />
+	<h5>Clinical animal testing</h5>
+	<p>Ekhagastiftelsen has a restrictive attitude towards scientific research where clinical animal testing is used. This does not mean that such research can not be 
+	funded by Ekhagastiftelsen, but such research must have high relevance with respect to the aims of the foundation and not be able to carried out without animal testing.</p>
+	<br />
 
   </div>
   <!--left end -->
   <!--right start -->
   <div id="right">
     <ul class="sub">
-      <li> 
+            <li>
         <div class="box-head">
-          <h5><a href="bilagor/blankett_eng.doc"><span>Application form</span></a></h5>
-          <p class="head-desc">Microsoft Word-template</p>
-        </div>
-        </li> 
-      <li>
-        <div class="box-head">
-          <h5><a href="bilagor/blankett_eng.pdf"><span>Application form</span></a></h5>
-          <p class="head-desc">PDF-file</p>
+          <h5><a href="bilagor/Formular2017-2Eng.pdf"><span>Application form</span></a></h5>
+          <p class="head-desc">PDF-form</p>
         </div>
       </li>
 	  <li> 
         <div class="box-head">
-          <h5><a href="bilagor/Applicationdatasheet.xls"><span>Application data sheet</span></a></h5>
+          <h5><a href="bilagor/Applicationdatasheet.xlsx"><span>Application data sheet</span></a></h5>
           <p class="head-desc">Microsoft Excel-template</p>
+        </div>
+        </li>
+	  <li> 
+        <div class="box-head">
+          <h5><a href="bilagor/anvisningarEng.pdf"><span>Instructions</span></a></h5>
+          <p class="head-desc">for the application form</p>
+        </div>
+        </li> 
+	  <li> 
+        <div class="box-head">
+          <h5><a href="bilagor/checklistaEng.pdf"><span>Checklist</span></a></h5>
+          <p class="head-desc">for the application</p>
         </div>
         </li> 
     </ul>

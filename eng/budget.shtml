@@ -12,15 +12,59 @@
   <div id="left">
     <h3><span>Budget </span>considerations</h3>
     <p class="head-desc">&nbsp;</p>
-    <P>Over the last years the board of Ekhagastiftelsen has discussed whether funds should be granted for unspecified 
-	overhead costs at universities and other institutions as part of the total project budget. The board has come to a 
-	restrictive view and is of the opinion that granted reserach funds should not go towards costs that are not directly related 
-	to the projects that Ekhagastiftelsen sponsors. Certain overhead costs may be relevant, such as for example costs for handling 
-	the funds or computers, but must be specified in the future. </p>
-<br />
-	<P>The board of Ekhagastiftelsen has decided from 2008 to apply the same rules regarding costs that can be funded as in use by the 
-	Wallenbergfoundations. Therefore the foundation har published new instructions regarding budgeting of costs in applications. </p>
-<br />
+	
+	<p>The project description should include a section with a detailed budget of the project. <br/>
+	There is no budget template and the applicants have to create their own budget chart and information based on the information 
+	below regarding which expenses we accept and which budget information we ask for. <br/>
+	It is allowed to the detailed budget in other currencies than SEK (Swedish krona) provided that budget summary in the project description 
+	and the application form states costs in SEK.</p> 
+	<br />
+	<h4>Approved expense categories</h4>
+	<p>Ekhagastiftelsen can grant funding for the following expense categories:</p>
+	<br />
+	<h5>1. Salaries</h5>
+	<p>Direct costs for salaries for active staff in the project (including salary related costs that the 
+	employer has to pay for taxes or charges due to collective agreements) - (In Swedish: LKP - lönekostnadspålägg)).<br/>
+	Provide information about active persons in the project with their salaries and how much of their time is spent on the project. 
+	For example, person NN working 25% of his time in the project. Alternatively specify hours worked and hourly cost. )).<br/>
+	For applications from Sweden: specify LKP separately as both amount and percentage of salaries.</p>
+	<br />
+	<h5>2. Equipment, instruments, materials</h5>
+	<p>SThe foundation can fund the cost of equipment, instruments, consumables, etc. needed for the project. <br />
+	The budget shall include cost details, but on an overall level. For example, there is no need to list all the 
+	types of supplies that will be used.</p>
+	<br />
+	<h5>3. Travel</h5>
+	<p>The foundation can fund the cost of travel, conferences, etc. that are required in the project.<br />
+	The budget must clearly state the purpose of the trips and the overall details.</p>
+	<br />
+	<h5>4. Office and building costs</h5>
+	<p>The foundation can fund direct costs for office and building space for the project staff listed in the Salaries section<br />
+	Office and building costs should be included as a separate section in the budget, although it is to be stated 
+	in the column 'Other' on the application form.</p>
+	<br />
+	<h5>5. Other</h5>
+	<p>Other direct project-related costs such as for example financial management and IT systems.<br />
+	These other costs must be specified in the budget.</p>
+	<br />
+	
+	<h4>Indirect/Overhead-costs</h4>
+	<p>Ekhagastiftelsen has a restrictive view about granting funds for overhead costs at universities and other institutions. 
+	We believe that grants should only be approved for costs directly related to the projects. Some indirect costs can be 
+	relevant, such as the costs of financial administration or IT, but must be specified.</p>
+	<br />
+	<p>Unspecified or flat rate surcharges/fees/overhead in the budget will not be accepted (Swedish example: 
+	universitetspåslag). Nor does the foundation accept budget lines such as, for example, university / faculty / 
+	department-wide costs, costs for management, library, education, infrastructure, etc. We also presume that no 
+	surcharges are placed on the purchase of equipment and materials.</p>
+	<br/>
+	
+	<h4>Cofinancing and grants from other organizations</h4>
+	<p>The budget shall include a specification of the contribution that the managing body, department, college or 
+	university gives to the project, so-called cofinancing, for example in the form of salaries for other staff involved in the project.</p>
+	<br />
+	<p>For projects that have secured or seek financing from other organizations, the total overall budget should 
+	be stated and it be made clear which parts Ekhagastiftelsens funding will contribute to.</p>
 	
   </div>
   <!--left end -->
@@ -29,7 +73,7 @@
     <ul class="sub">
       <li>
         <div class="box-head">
-          <h5><a href="bilagor/wbudget.pdf"><span>Redovisning av kostnader</span></a></h5>
+          <h5><a href="xxx"><span>xxx</span></a></h5>
           <p class="head-desc">PDF-fil</p>
         </div>
       </li>

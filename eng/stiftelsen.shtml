@@ -12,7 +12,9 @@
   <div id="left">
     <h3><span>Purpose of the </span>foundation</h3>
     <p class="head-desc">&nbsp;</p>
-    <p>Ekhagastiftelsen (Ekhaga foundation) was founded by Gösta Videgård as early as 1944 and since then we have supported 
+    <p><h5>NOTE! This page will be updated with more detailed information shortly! Check back in a few days!</h5></p>
+    <br/>
+    <br/><p>Ekhagastiftelsen (Ekhaga foundation) was founded by Gösta Videgård as early as 1944 and since then we have supported 
 	research in ecological agriculture and biological medicine.</p>
     <br/>
     <p>According to Gösta Videgårds wish and in view of his interests the foundation primarily supports certain specific research areas.</p>
@@ -39,17 +41,17 @@
 
   </div>
   <!--left end -->
-  <!--right start -->
+  <!--right start 
   <div id="right">
     <ul class="sub">
       <li>
         <div class="box-head">
-          <h5><a href="bilagor/ekhagastiftelsen_eng.pdf"><span>Presentation</span></a></h5>
-          <p class="head-desc">of Ekhagastiftelsen</p>
+          <h5><a href="bilagor/xxx.pdf"><span>Document</span></a></h5>
+          <p class="head-desc">description</p>
         </div>
       </li>
 	 </ul>
-  </div>
+  </div>-->
   <!--right end -->
   <br class="spacer" />
   <!--center start -->
