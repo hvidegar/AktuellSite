@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Ekhagastiftelsen</title>
 <!--#include file="huvud.html" -->
+<link href="pagestyle.css" rel="stylesheet" type="text/css" />
   <!--banner start -->
   <!--<br class="spacer" />-->
   
@@ -12,46 +13,94 @@
   <div id="left">
     <h3><span>Purpose of the </span>foundation</h3>
     <p class="head-desc">&nbsp;</p>
-    <p><h5>NOTE! This page will be updated with more detailed information shortly! Check back in a few days!</h5></p>
-    <br/>
-    <br/><p>Ekhagastiftelsen (Ekhaga foundation) was founded by Gösta Videgård as early as 1944 and since then we have supported 
-	research in ecological agriculture and biological medicine.</p>
-    <br/>
-    <p>According to Gösta Videgårds wish and in view of his interests the foundation primarily supports certain specific research areas.</p>
-	<br />
-	<p>Within AGRICULTURE the foundation supports research relating to improvement and further development of ecological agriculture 
-	(ecologically well suited agricultural systems where chemical compounds for fertilization and other uses are replaced with ecological 
-	and biological measures of promoting production). Here the goal should be the production of high quality food that are well suited at 
-	improving the public health and development. Further, research in preparation and storage of food with natural technology can be supported.</p>
-	<br />
-	<p>Within MEDICINE the foundation supports research relating to the improvement and further development of such methods of 
-	healing that are natural and suited to promote the inherent human ability of self-healing. The holistic view of the human 
-	health, where not only medicine but also the effects of food and environment are observed, is here of great importance. Research 
-	in the significance of the environment and the way of life for the state of health is also supported. Furthermore, the foundation 
-	is open for contributing to the creation of a research center in Sweden for biological medicine.</p>
-	<br />
-	<p>Applications for scholarships and strategic efforts to promote a development consistent with the aim of the foundation can be accepted. 
-	The foundation also welcomes applications for planning-grants, which are used to get a better foundation for a final application of further 
-	studies. This may be in the form of workshops or seminars that may also be a part of a dialogue between researchers and the scientific 
-	advisory council of the foundation.  </p>
-	<br />
-	<p>In the first place it is the foundations aim to support strategic and innovative projects. </p>
-	<br />
-	<p>Support for projects is not limited to Sweden and Scandinavia. Applications from all over the world are welcome.  </p>
+    
+    <p>The purpose of Ekhagastiftelsen is to promote human health by supporting the development of better food, natural 
+	medicines and healing practices, and to support research for a healthier way of life, which in itself may have a 
+	disease preventive effect.</p>
+	<br/>
+	<p>A central idea is to focus more on preventive active care than reactive care to combat symptoms. 
+	The same applies to the agricultural and food areas where the focus should be to find methods that 
+	can prevent various problems instead of focusing on their manifestations.<br/>
+	The focus should not be on tackling problems, but rather finding ways to prevent their occurrence.</p>
+	<br/>
+	<h4>Prioritized research areas</h4>
+	<p>In accordance with Gösta Videgårds wishes and interests the foundation supports certain specific research areas.</p>
+	<br/>
+	<h5>Better and healthier food</h5>
+	<p>For Gösta Videgård an important goal was the improvement in quality of agricultural products through agriculture 
+	without toxins and artificial substances. The foundation therefore supports research and development based on the 
+	principles of organic and biodynamic food production or other methods and orientations that promote this goal. 
+	Research should be in line with IFOAMs (International Federation of Organic Agriculture Movements) principles of organic production.</p>
+	<br/>
+	<p>Examples of research that can be supported is how such crops that currently require pesticides can be grown 
+	organically in a qualitative and efficient way to produce better and healthier food.</p>
+	<br/>
+	<p>Research on improved preparation and storage of food, as well as the analysis of food quality can receive support.</p>
+	<br/>
+	<h5>Nutrition and way of life</h5>
+	<p>Gösta Videgård was very interested in significance of the diet for humans. The Foundation therefore supports 
+	research into the role of the diet in the treatment of diseases and strengthening the body's resistance.</p>
+	<br/>
+	<p>Examples of funding can be research into which type diet and food the body needs, the impact of different 
+	food choices on bodily functions and related nutritional issues.</p>
+	<br/>
+	<p>Healthier lifestyles, a cleaner environment and a more active outdoor lifestyle was also important to 
+	Gösta Videgård and he wished that the foundation should work to promote such development. 
+	Ekhagastiftelsen can therefore support scientific research in this area. </p>
+	<br/>
+	<h5>Complementary medicine and natural medicines</h5>
+	<p>Gösta Videgårds had a keen interest in complementary medicine and its goal of curing diseases by using the body's 
+	own innate healing abilities and utilize natural healing powers. He appreciated and also practiced the 
+	basic idea of avoiding artificial chemicals as far as possible.</p>
+	<br/>
+	<p>Ekhagastiftelsen recognizes that today support for this area of research can be extended to include also other medical 
+	research where the mindset is to utilize natural methods and medicines, and for example, can go 
+	under the names integrative, biological or alternative medicine.</p>
+	<br/>
+	<p>There are mental and psychological aspects in complementary medicine, and research in this direction can also 
+	be supported. However, our view is that research on the physical impact and bodily functions have higher 
+	priority than research on mental health and psychology.</p>
+	<br/>
+	<h4>Which applications can receive grants?</h4>
+	<p>The main focus should be on scientific research and primarily applied research. Basic research in areas such 
+	as for example molecular biology and genetic research can be supported if it clarifies causal relationships 
+	that can be considered to be of direct value for further research related to foundation's purpose.</p>
+	<br/>
+	<p>In addition to funding scientific research, the foundation can, to a lesser extent, grant funding for 
+	projects designed to have research findings put into practice, for example, training activities, 
+	documentation projects, book projects or conferences. Such applications must contribute to a 
+	development in line with the foundation's purpose.</p>
+	<br/>
+	<p>The foundation also welcomes applications for planning grants. These can be for organizing seminars / workshops 
+	on the issue that the applicant wants to study, in order to get a better basis for a definite application 
+	(which can also be directed to other funding bodies) and as part of a dialogue between scientists and the 
+	scientific advisory council.</p>
+	<br/>
+	<p>Ekhagastiftelsen wishes primarily to support strategic and innovative projects of a pilot nature, 
+	as well as research that is highly newsworthy and that not just confirms previous findings. The foundation 
+	also supports participatory research projects, in which, for example, farmers and scientists work together 
+	to identify research questions and methods, and jointly evaluate the results.</p>
+	<br/>
+	<p>It is possible to apply for scholarships, but this is usually only granted for research-related projects. 
+	The foundation does not sponsor basic education at university level.</p>
+	<br/>
+	<p>Ekhagastiftelsen does not support aid projects where, for example, the project plans to 
+	develop societal functions or conduct training.	</p>
+	<br/>
 
-  </div>
+	</div>
   <!--left end -->
-  <!--right start 
-  <div id="right">
+  <!--right start -->
+  <!--<div id="right">
     <ul class="sub">
       <li>
         <div class="box-head">
-          <h5><a href="bilagor/xxx.pdf"><span>Document</span></a></h5>
-          <p class="head-desc">description</p>
+          <h5><a href="länk"><span>Länktext</span></a></h5>
+          <p class="head-desc">beskriving</p>
         </div>
       </li>
 	 </ul>
-  </div>-->
+  </div>
   <!--right end -->
   <br class="spacer" />
   <!--center start -->
