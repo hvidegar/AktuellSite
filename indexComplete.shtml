@@ -45,11 +45,12 @@ html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
     <li><a href="kontakt.shtml" class="contact">Kontakt</a></li>
     <li><a href="login.shtml" class="login"></a></li>
   </ul>
-  <a href="http://www.ekhagastiftelsen.se/eng"><img src="images/logo.png" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" /></a> 
+  <img src="images/FillerBild1x1.png" height="25" /><br><a href="http://www.ekhagastiftelsen.se">
+  <img src="images/EkhagastiftelsenLogotype2018-White-Transp.png" height="25" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" /></a> 
 </div>
 <!--header end -->
 <!--printheader start -->
-<img src="images/logoblack.png" id="svartlogga"  border="0" />
+<img src="images/EkhagastiftelsenLogotype2018-Black-TranspPrint.png" height="114" id="svartlogga"  border="0" />
 <!--printheader end --> 
 <!--body start -->
 <div id="body">
