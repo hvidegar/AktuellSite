@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Application </span>form</h3>
+    <p class="head-desc">&nbsp;</p>
+    
+	<p>Here you can download the current application form.</p><br/>
+	
+	
+	<h4>We recommend NOT to fill out the form directly in your web browser!</h4>
+	<p>Instead, download the form to your computer and use the Adobe Acrobat Reader software to fill out the form.</p>
+	<br/>
+	<p>If you use the web browser to fill out the form the form can become corrupt.</p>
+	<br/>
+	
+	<p>Use the Adobe Acrobat Reader software to fill out the form. Acrobat Reader is free to download and use.<br>
+	<a href="https://get.adobe.com/uk/reader/"><img src="images/Reader.png" id="GetReader"  border="0" />
+	<br>Get Acrobat Reader</a></p>
+	<br />
+	
+	
+
+  </div>
+  <!--left end -->
+  <!--right start -->
+  <div id="right">
+    <ul class="sub">
+            <li>
+        <div class="box-head">
+          <h5><a href="bilagor/Formular2018-1Eng.pdf"><span>Application form</span></a></h5>
+          <p class="head-desc">PDF-form - Right-click and choose Save as ...</p>
+        </div>
+      </li>
+	  <li> 
+        <div class="box-head">
+          <h5><a href="bilagor/Applicationdatasheet.xlsx"><span>Application data sheet</span></a></h5>
+          <p class="head-desc">Microsoft Excel-template</p>
+        </div>
+        </li>
+	  <li> 
+        <div class="box-head">
+          <h5><a href="bilagor/anvisningarEng.pdf"><span>Instructions</span></a></h5>
+          <p class="head-desc">for the application form</p>
+        </div>
+        </li> 
+	  <li> 
+        <div class="box-head">
+          <h5><a href="bilagor/checklistaEng.pdf"><span>Checklist</span></a></h5>
+          <p class="head-desc">for the application</p>
+        </div>
+        </li> 
+    </ul>
+  </div>
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>
