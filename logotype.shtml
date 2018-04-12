@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ekhagastiftelsen</title>
+<!--#include file="huvud.html" -->
+  <!--banner start -->
+  <!--<br class="spacer" />-->
+  
+  <!--banner end -->
+  <!--left start -->
+  <div id="left">
+    <h3><span>Ekhagastiftelsens </span>logotype</h3>
+    <br/>
+	<img src="images/EkhagastiftelsenLogotype2018-White-Transp.png" height="25" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" />
+	<p class="head-desc"><br/>Logotyp i vit text med transparent bakgrund</p>
+    <p><a href="images/EkhagastiftelsenLogotype2018-White-Transp.eps" class="login">EPS-fil</a>
+	<a href="images/EkhagastiftelsenLogotype2018-White-Transp.png" class="login">PNG-fil</a> 
+	<a href="images/EkhagastiftelsenLogotype2018-White-Transp.gif" class="login">GIF-fil</a></p>
+	<br/>
+	<img src="images/EkhagastiftelsenLogotype2018-Black-Transp.png" height="25" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" />
+	<p class="head-desc"><br/>Logotyp i svart text med transparent bakgrund</p>
+    <p><a href="images/EkhagastiftelsenLogotype2018-Black-Transp.eps" class="login">EPS-fil</a>
+	<a href="images/EkhagastiftelsenLogotype2018-Black-Transp.png" class="login">PNG-fil</a> 
+	<a href="images/EkhagastiftelsenLogotype2018-Black-Transp.gif" class="login">GIF-fil</a></p>
+	<br/>
+	<img src="images/EkhagastiftelsenLogotype2018-Black-WhiteBackgr.png" height="25" id="vitlogga" alt="Ekhagastiftelsen"  border="0" class="logo" title="Ekhagastiftelsen" />
+	<p class="head-desc"><br/>Logotyp i svart text med vit bakgrund</p>
+    <p><a href="images/EkhagastiftelsenLogotype2018-Black-WhiteBackgr.eps" class="login">EPS-fil</a>
+	<a href="images/EkhagastiftelsenLogotype2018-Black-WhiteBackgr.png" class="login">PNG-fil</a> 
+	<a href="images/EkhagastiftelsenLogotype2018-Black-WhiteBackgr.gif" class="login">GIF-fil</a></p>
+    
+  </div>
+  <!--left end -->
+  <!--right start 
+  <div id="right">
+    <ul class="sub">
+      <li> <a href="#"><img src="images/ic-04.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Ansökan</span></a></h5>
+          <p class="head-desc">E-ansökan</p>
+        </div>
+        </li> 
+      <li><a href="#"><img src="images/ic-05.gif" alt="" class="head-img" border="0" />
+        </a>
+        <div class="box-head">
+          <h5><a href="#"><span>Kontakt</span></a></h5>
+          <p class="head-desc">phone, fax, e-mail</p>
+        </div>
+      </li>
+    </ul>
+  </div>-->
+  <!--right end -->
+  <br class="spacer" />
+  <!--center start -->
+
+  <!--center end -->
+</div>
+<script type="text/javascript"> Cufon.now(); </script> <!--hide delay time at ie--> 
+<!--body end -->
+<!--#include file="fot.html" -->
+</body>
+</html>
