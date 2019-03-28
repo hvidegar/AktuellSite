@@ -35,7 +35,9 @@
     <p>&raquo; Amount now requested,</p>
 	<p>&raquo; Payment instructions.</p>
 	<br/>
-    <p>For payments within Sweden please provide either<br>
+	<p><span>Note! Please also specify any specific reference that you want us to mark the payment with!</span></p>
+    <br/>
+	<p>For payments within Sweden please provide either<br>
 	- Bank- or Plusgironumber and name of account holder, or<br>
 	- Accountnumber, bank clearing number, bank name and name of account holder. </p>
 	<br/>

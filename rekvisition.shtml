@@ -38,6 +38,8 @@
 	<p>&raquo; samt utbetalningsinstruktioner (namn på kontohavare och bank- eller plusgironummer
 	alternativt kontonummer med clearingnr och banknamn).</p>
 	<br/>
+	<p><span>OBS! Glöm inte att ange eventuella referensnummer som ni vill att vi anger vid betalningen!</span></p>
+	<br/>
     <p>För utlandsbetalningar vill vi ha IBAN-nummer och BIC-kod/Swift-adress samt namn på bank och kontohavare. 
 	I länder där man inte använder IBAN-nummer måste följande uppgifter anges: Kontohavare, kontonummer, banknamn, 
 	bankens adress och BIC-kod/Swift-adress.</p>
