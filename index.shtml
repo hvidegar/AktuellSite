@@ -27,17 +27,17 @@
 	  
 	  
   <!--left end -->
-  <!--right start 
+  <!--right start -->
   <div id="right">
     <ul class="sub">
       <li>
         <div class="box-head">
-          <h5><a href="#"><span>OBS! Ny ansökingsblankett</span></a></h5>
-          <p class="head-desc">och instruktioner</p>
+          <h5><a href="#"><span>Sista ansökningsdag</span></a></h5>
+          <p class="head-desc">20 maj 2020</p>
         </div>
         </li> 
           </ul>
-  </div>-->
+  </div>
   <!--right end -->
   <br class="spacer" />
   <!--center start -->

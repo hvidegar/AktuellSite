@@ -24,16 +24,16 @@
 	  </div>
   <!--left end -->
   <!--right start -->
-  <!--<div id="right">
+  <div id="right">
     <ul class="sub">
       <li> 
         <div class="box-head">
-          <h5><a href="#"><span>Note! Message</span></a></h5>
-          <p class="head-desc">here!</p>
+          <h5><a href="#"><span>Application deadline</span></a></h5>
+          <p class="head-desc">May 20 2020</p>
         </div>
         </li> 
           </ul>
-  </div>-->
+  </div>
   <!--right end -->
   <br class="spacer" />
   <!--center start -->
